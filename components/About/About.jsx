@@ -1,5 +1,5 @@
 import Image from "next/image";
-import photo from "../../public/Tamim.jpg";
+import photo from "../../public/Mohyet.jpg";
 import { Button } from "../ui/button";
 import { GoArrowUpRight } from "react-icons/go";
 import { cn } from "@/lib/utils";
