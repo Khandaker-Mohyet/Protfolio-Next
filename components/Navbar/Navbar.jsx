@@ -53,7 +53,7 @@ const Navbar = () => {
           </li>
         </ul>
         <div className="flex items-center">
-          <a href="www.linkedin.com/in/abdullah-al-mohyet-724ba1323" target="_blank">
+          <a href="https://www.linkedin.com/in/abdullah-al-mohyet-724ba1323" target="_blank">
             <Button variant="ghost" size="icon">
               <FaLinkedin />
             </Button>
