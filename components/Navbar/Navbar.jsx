@@ -33,12 +33,17 @@ const Navbar = () => {
           </li>
           <li>
             <a href="#services" className="dark:text-neutral-400 dark:hover:text-white transition-all duration-150">
-              Services
+              Skills
             </a>
           </li>
           <li>
             <a href="#work" className="dark:text-neutral-400 dark:hover:text-white transition-all duration-150">
-              My Work
+              Project
+            </a>
+          </li>
+          <li>
+            <a href="#work" className="dark:text-neutral-400 dark:hover:text-white transition-all duration-150">
+              Education
             </a>
           </li>
           <li>
@@ -48,12 +53,12 @@ const Navbar = () => {
           </li>
         </ul>
         <div className="flex items-center">
-          <a href="https://www.linkedin.com/in/tamim-ahmed-dev/" target="_blank">
+          <a href="www.linkedin.com/in/abdullah-al-mohyet-724ba1323" target="_blank">
             <Button variant="ghost" size="icon">
               <FaLinkedin />
             </Button>
           </a>
-          <a href="https://github.com/TamimAhmedCD" target="_blank">
+          <a href="https://github.com/Khandaker-Mohyet" target="_blank">
             <Button variant="ghost" size="icon">
               <FaGithub />
             </Button>
