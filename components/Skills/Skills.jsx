@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaHtml5, FaCss3Alt, FaJsSquare, FaReact, FaNodeJs } from 'react-icons/fa';
-import { SiTypescript, SiTailwindcss, SiMongodb, SiExpress } from 'react-icons/si';
+import { SiTypescript, SiTailwindcss, SiMongodb, SiExpress, SiFirebase } from 'react-icons/si';
 import { DotPattern } from '../magicui/dot-pattern';
 import { cn } from '@/lib/utils';
 
@@ -35,6 +35,7 @@ const Skills = () => {
         <SiMongodb className="text-6xl text-green-600" />
         <FaNodeJs className="text-6xl text-green-500" />
         <SiExpress className="text-6xl text-gray-600" />
+        <SiFirebase className="text-6xl text-orange-500" />
       </div>
     </div>
   );
